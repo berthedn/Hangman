@@ -1,0 +1,84 @@
+body {
+  background: grey;
+  color: black;
+}
+
+main {
+  width: 90%;
+}
+
+header {
+  background: black;
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  display: block;
+  width: 100%;
+}
+
+.words-side {
+  background: grey;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.guess-show {
+  color: grey;
+  font-size: 29px;
+  letter-spacing: 1px;
+  margin: 0 2px;
+  padding: 10px;
+  text-transform: uppercase;
+  }
+
+.indie-letters-hidden {
+  background: grey;
+  border-bottom: 3px solid red;
+  color: grey;
+  letter-spacing: 1px;
+  margin: 0 2px;
+  padding: 10px;
+  }
+
+.show-letter {
+  color: black;
+}
+
+.head {
+  fill: grey;
+  stroke: grey;
+}
+
+.body {
+  stroke: grey;
+}
+
+.leg-left {
+  stroke: grey;
+}
+
+.leg-right {
+  stroke: grey;
+}
+
+.arm-left {
+  stroke: grey;
+}
+
+.arm-right {
+  stroke: grey;
+}
+
+.show-hangman {
+  stroke: black;
+}
+
+.is-hidden {
+  color: black;
+ }
